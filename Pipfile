@@ -19,4 +19,4 @@ sqlalchemy = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 
 [requires]
-python_version = "3"
+python_version = "3.7"
